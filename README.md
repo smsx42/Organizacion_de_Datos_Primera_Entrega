@@ -5,18 +5,29 @@ Para esta entrega se necesitó realizar diversos puntos que consisten en la expl
 En este caso se proporcionan los links y archivos a los Colab correspondientes de cada sección.
 
 Links de Pandas:
+
 Ejercicio 1: https://colab.research.google.com/drive/1WsLWhDNKZldEEpSVuC9OJqnMCHm_wxxb
+
 Ejercicio 2: https://colab.research.google.com/drive/1xAAiwKMQABnSfvH12Vz1tGDpAeAzdUjG
+
 Ejercicio 3: https://colab.research.google.com/drive/1xAAiwKMQABnSfvH12Vz1tGDpAeAzdUjG
+
 Ejercicio 4: https://colab.research.google.com/drive/1eCvb9L3e1_RpBTxSOJ0qvqzyPj_fB2_b
 
 Links de Gráficos:
+
 Histograma: https://colab.research.google.com/drive/18vz1kuhRGF2MtNRc1At9iZmP_DENbJZx
+
 Box Plot: https://colab.research.google.com/drive/1LuTaJmGlJBu3U66CENbqnlKJwkhZ_tIA
+
 Heatmap: https://colab.research.google.com/drive/1phya3Hgx9dGlWHfxFY3lSDOd6fC68i6_
 
 Links de Apache Spark:
 Ejercicio 1: https://colab.research.google.com/drive/1fy7KAVYmHMdZ-fQYHUC4oDIe862zIYWh#scrollTo=aStouuCzPwLU
+
 Ejercicio 2: https://colab.research.google.com/drive/1UHhsr52tgN1p6EsUnC-W7QAZEKZ-z-Ve
+
 Ejercicio 3: https://colab.research.google.com/drive/1OQSQNBiiFUiIXC8kmiA6cOnuyFULvsM1
+
 Ejercicio 4: https://colab.research.google.com/drive/1iafNUAQnK8z3giMZz9SsYDRMNvBOpcV5
+

@@ -10,7 +10,7 @@ Ejercicio 1: https://colab.research.google.com/drive/1WsLWhDNKZldEEpSVuC9OJqnMCH
 
 Ejercicio 2: https://colab.research.google.com/drive/1xAAiwKMQABnSfvH12Vz1tGDpAeAzdUjG
 
-Ejercicio 3: https://colab.research.google.com/drive/1xAAiwKMQABnSfvH12Vz1tGDpAeAzdUjG
+Ejercicio 3: https://colab.research.google.com/drive/1hcBOmSrc-f0H_Se4VaEDUldBuEX9HKm8
 
 Ejercicio 4: https://colab.research.google.com/drive/1eCvb9L3e1_RpBTxSOJ0qvqzyPj_fB2_b
 
